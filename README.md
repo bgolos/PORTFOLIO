@@ -5,9 +5,9 @@
 # TECH SKILLS
 
 * ISTQB Foundation Level knowladge
-* MS SQL - basic knowledge 
+* SQL - basics 
 * Creating test cases and test scenarios
-* Collecting test data
+* Preparing test data
 * Creating diagrams
 * Preparing bug report
 * Reporting results of the test
@@ -15,9 +15,9 @@
 
 # TOOLS
 
-* Jira - practical knowledge
-* Confluence - practical knowledge
-* Postman - basics knowledge
+* Jira 
+* Confluence 
+* Postman - basics 
 * Testlink 
 * Draw.io
 * Selenium IDE
@@ -47,8 +47,6 @@
 * Testerzy oprogramowania wsparcie na starcie
 * Testuj, Dziewczyno!
   
-
-
 # RECOMENDED LITERATURE
 
 * Rafał Podraza - Ścieżka testera
