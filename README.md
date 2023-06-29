@@ -1,21 +1,23 @@
 # ABOUT ME
-* Certified Software Tester with 1 year of commercial experience in  testing frontend.
+* Software Tester with nearly 1 of commercial experience in  testing frontend. I have just finished Software Testing - postgraduate coures 
  ### <p align="center"><a href="https://www.inkedin.com/in/barbara-golos//" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
 
 # TECH SKILLS
+
 * ISTQB Foundation Level knowladge
-  - Testing techniques and methodes
-  - Test type
 * MS SQL - basic knowledge
-* Creating diagrams
 * Creating test cases and test scenarios
 * Collecting test data
+* Creating diagrams
+* Preparing bug report
+* Reporting results of the test
 * DevTools
 
 # TOOLS
-* Jira
+
+* Jira - practical 
 * Confluence
-* Postman
+* Postman basics
 * Testlink
 * Draw.io
 * Selenium IDE
@@ -25,15 +27,28 @@
 
 # SOFT SKILLS
 
+* Highly developed interpersonal skills
+* Patience
+* Attention to detail
+
 # CERTIFICATES
+
 
 # COURSES
 
 # EDUCATION
 
+* Vistula University - Software Testing - postgraduate diploma - A 
+
 # GROUPS ON FACEBOOK
 
+* Testerzy oprogramowania
+* Testerzy oprogramowania wsparcie na starcie
+* Testuj, Dziewczyno!
+  
+
 # ATTENDED WEBINARS
+
 
 # RECOMENDED LITERATURE
 
@@ -41,8 +56,6 @@
 
 # TEST CASES
 
-
-
-# PROJECT 
+# SQL
 
 
