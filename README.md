@@ -5,7 +5,7 @@
 # TECH SKILLS
 
 * ISTQB Foundation Level knowladge
-* MS SQL - basic knowledge
+* MS SQL - basic knowledge 
 * Creating test cases and test scenarios
 * Collecting test data
 * Creating diagrams
@@ -15,10 +15,10 @@
 
 # TOOLS
 
-* Jira - practical 
-* Confluence
-* Postman basics
-* Testlink
+* Jira - practical knowledge
+* Confluence - practical knowledge
+* Postman - basics knowledge
+* Testlink 
 * Draw.io
 * Selenium IDE
 * Bug Magnet
@@ -34,6 +34,7 @@
 # CERTIFICATES
 
 
+
 # COURSES
 
 # EDUCATION
@@ -47,12 +48,18 @@
 * Testuj, Dziewczyno!
   
 
-# ATTENDED WEBINARS
-
 
 # RECOMENDED LITERATURE
 
+* Rafał Podraza - Ścieżka testera
+* Natalia Pawlak - Podróż przez świat testowania
+
 # RECOMENDED BLOGS
+
+* [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
+* [testerzy.pl](https://testerzy.pl/)
+* [remigiuszbednarczyk.pl.pl](https://remigiuszbednarczyk.pl/)
+
 
 # TEST CASES
 
